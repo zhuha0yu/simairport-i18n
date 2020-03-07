@@ -15,7 +15,7 @@
         </CTO>
         <FinanceVP>
             <name>财务VP</name>
-            <description>财务副总裁 - 让您‘研究’与税务相关的改进，帮您给轮子上油。</description>
+            <description>财务副总裁 - 让您研究与税务相关的改进，帮您给轮子上油。</description>
         </FinanceVP>
         <FlightAttendant>
             <name>乘务员</name>
@@ -124,11 +124,11 @@
                 不过要想让他们正常工作，您需要建立会议室，在那里他们才能自动安排会议。</description>
         </AirlineRep>
         <LightRailTrain>
-            <name>Light Rail Train</name>
+            <name>轻轨列车</name>
             <description />
         </LightRailTrain>
         <ApronBus>
-            <name>Apron Bus</name>
+            <name>摆渡车</name>
             <description />
         </ApronBus>
     </Agents>
@@ -810,7 +810,7 @@
         </JewelryDisplayC>
         <ConcreteRunway>
             <name>混凝土跑道</name>
-            <description>混凝土跑到很好。</description>
+            <description>混凝土跑道很好。</description>
         </ConcreteRunway>
         <AsphaltRunway>
             <name>沥青跑道</name>
@@ -819,7 +819,7 @@
         <OneWayPath>
             <name>单向路标</name>
             <description>控制乘客在机场内的行走路线。
-                使用时要小心计划，记住乘客必须始终有进入/离开机场的通道，以防错过航班或发生紧急情况！</description>
+                使用时要小心规划，记住乘客必须始终有进入/离开机场的通道，以防错过航班或发生紧急情况！</description>
         </OneWayPath>
         <ReceptionDesk>
             <name>接待处</name>
@@ -875,30 +875,30 @@
             <description>传送网对象，允许传送带在两层之间转换。允许在设计行李传送网络时战略性地利用空间。</description>
         </ConveyorTransition>
         <AircraftGateSmallRemote>
-            <name>Aircraft Gate (S, Remote)</name>
-            <description>Allows aircraft to load and unload passengers.</description>
+            <name>登机口 (小, 远机位)</name>
+            <description>让飞机上下乘客。</description>
         </AircraftGateSmallRemote>
         <RemoteBusPickup>
-            <name>Remote Bus Pickup</name>
-            <description>Allows for buses to transfer passengers to and from a remote gate.</description>
+            <name>摆渡车站</name>
+            <description>允许摆渡车在航站楼与远机位之间接送乘客。</description>
         </RemoteBusPickup>
         <Crosswalk>
-            <name>Cross Walk</name>
-            <description>Why do the passengers cross the street?  To access the services you provide on the other side!</description>
+            <name>人行横道</name>
+            <description>乘客为什么要横穿马路？因为您给他们提供的服务在马路的另一边！</description>
         </Crosswalk>
         <AircraftGateRemote>
-            <name>Aircraft Gate (L, Remote)</name>
-            <description>Allows aircraft to load and unload passengers.</description>
+            <name>登机口 (大, 远机位)</name>
+            <description>让飞机上下乘客。</description>
         </AircraftGateRemote>
         <AircraftGateLargeRemote>
-            <name>Aircraft Gate (XL, Remote)</name>
-            <description>Allows aircraft to load and unload passengers.</description>
+            <name>登机口 (超大, 远机位)</name>
+            <description>让飞机上下乘客。</description>
         </AircraftGateLargeRemote>
     </Objects>
     <Foods>
         <Pizza>披萨</Pizza>
         <Sushi>寿司</Sushi>
-        <AvacadoonToast>烤面包鳄梨</AvacadoonToast>
+        <AvacadoonToast>烤鳄梨面包</AvacadoonToast>
         <Crisps>薯片</Crisps>
         <Donut>甜甜圈</Donut>
         <Coffee>咖啡</Coffee>
